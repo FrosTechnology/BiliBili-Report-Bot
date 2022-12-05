@@ -5,9 +5,8 @@ This project is made for educational purposes only, do not use it to supress oth
 Thank you for using my project! See instructions below.
 
 INSTRUCTIONS:
-1. Put the video URL in confid.txt
-2. Run the program
-3. Bot reports started!
+1. You can download this project on the Releases section.
+2. See additional instructions inside the project.
 
 
 
