@@ -6,7 +6,7 @@ Thank you for using my project! See instructions below.
 
 INSTRUCTIONS:
 1. You can download this project on the Releases section.
-2. See additional instructions inside the project.
+2. Open the README file in the project folder for additional instructions.
 
 
 
